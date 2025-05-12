@@ -1,0 +1,1 @@
+class GFlowNet:\n    def __init__(self):\n        self.states = []
