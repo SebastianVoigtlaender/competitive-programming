@@ -1,0 +1,1 @@
+def align_sequences(seq1, seq2):\n    # Needleman-Wunsch DP approach\n    pass
