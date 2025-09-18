@@ -1,0 +1,1 @@
+from graphs.gflownet_base import GFlowNet\nnet = GFlowNet()\nprint('Generating biological sequences...')

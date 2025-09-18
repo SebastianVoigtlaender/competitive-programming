@@ -1,1 +1,1 @@
-# Algorithmic Implementations\nGraph theory and DP algorithms.
+# AI & Algorithms (competitive-programming)\n\nAdvanced algorithmic implementations focusing on dynamic programming and graph theory, serving as foundational logic for Generative Flow Networks (GFlowNets).
